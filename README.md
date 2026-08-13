@@ -92,7 +92,6 @@ The plot compares the estimated area of each land-cover class across 2021, 2023,
 
 The feature-importance plot shows the relative contribution of the spectral bands and indices used by the Random Forest classifier. SWIR1, SWIR2, Red, and NDWI were among the most important features.
 
-## Research Papers and References
 
 ## Research Papers and References
 
