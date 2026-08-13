@@ -55,7 +55,7 @@ estimates rather than independently validated ground truth.
 
 Python 3.x with the following main packages:
 
-```text
+
 numpy
 pandas
 matplotlib
@@ -64,7 +64,7 @@ rasterio
 odc-stac
 pystac-client
 planetary-computer
-scikit-learn```
+scikit-learn
 
 
 ## Visual Outputs
