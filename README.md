@@ -94,6 +94,16 @@ The feature-importance plot shows the relative contribution of the spectral band
 
 ## Research Papers and References
 
-- Breiman, L. (2001). *Random Forests*. Machine Learning, 45, 5–32.
-- Drusch, M. et al. (2012). *Sentinel-2: ESA's Optical High-Resolution Mission for GMES Operational Services*. Remote Sensing of Environment, 120, 25–36.
-- ESA WorldCover 2021 — 10 m global land-cover dataset.
+## Research Papers and References
+
+- Breiman, L. (2001). *Random Forests*. Machine Learning, 45, 5–32.  
+  https://doi.org/10.1023/A:1010933404324
+
+- Drusch, M. et al. (2012). *Sentinel-2: ESA's Optical High-Resolution Mission for GMES Operational Services*. Remote Sensing of Environment, 120, 25–36.  
+  https://doi.org/10.1016/j.rse.2011.11.026
+
+- ESA WorldCover 2021 — 10 m global land-cover dataset.  
+  https://doi.org/10.5281/zenodo.7254221
+
+- ESA WorldCover Data Access and Documentation.  
+  https://esa-worldcover.org/en/data-access
