@@ -64,7 +64,8 @@ rasterio
 odc-stac
 pystac-client
 planetary-computer
-scikit-learn
+scikit-learn```
+
 
 ## Visual Outputs
 
