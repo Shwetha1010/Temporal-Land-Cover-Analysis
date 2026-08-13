@@ -106,3 +106,6 @@ The feature-importance plot shows the relative contribution of the spectral band
 
 - ESA WorldCover Data Access and Documentation.  
   https://esa-worldcover.org/en/data-access
+
+- [Phiri et al. (2020) — Recent Applications of Landsat 8/OLI and Sentinel-2/MSI for Land Use and Land Cover Mapping: A Systematic Review](https://doi.org/10.3390/rs12183062)
+
