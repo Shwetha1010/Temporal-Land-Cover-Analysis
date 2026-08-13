@@ -69,31 +69,31 @@ The following visualizations were generated from the analysis.
 
 ### 1. ESA WorldCover 2021 Reference Labels
 
-![ESA WorldCover 2021 Reference Labels](worldcover_reference_2021.png)
+![ESA WorldCover 2021 Reference Labels](outputs/worldcover_reference_2021.png)
 
 The 2021 ESA WorldCover map provides the reference labels used for training and spatial validation. The original WorldCover classes were mapped to the five project classes: Water, Vegetation, Agricultural Land, Built-up, and Bare Land.
 
 ### 2. Spatial Hold-Out Confusion Matrix
 
-![Spatial Hold-Out Confusion Matrix](spatial_holdout_confusion_matrix.png)
+![Spatial Hold-Out Confusion Matrix](outputs/spatial_holdout_confusion_matrix.png)
 
 The confusion matrix shows the Random Forest classification performance on the spatially held-out validation blocks. The model achieved 71.72% overall accuracy and 71.56% macro F1.
 
 ### 3. Temporal Land-Cover Classification
 
-![Temporal Land-Cover Classification](temporal_landcover_classification.png)
+![Temporal Land-Cover Classification](outputs/temporal_landcover_classification.png)
 
 The classification maps show the estimated spatial distribution of the five land-cover classes for 2021, 2023, and 2025 using the same trained Random Forest model.
 
 ### 4. Land-Cover Area Change Over Time
 
-![Land-Cover Area Change Over Time](landcover_area_change.png)
+![Land-Cover Area Change Over Time](outputs/landcover_area_change.png)
 
 The plot compares the estimated area of each land-cover class across 2021, 2023, and 2025, allowing temporal changes within the selected AOI to be examined.
 
 ### 5. Spectral Feature Importance
 
-![Spectral Feature Importance](feature_importance.png)
+![Spectral Feature Importance](outputs/feature_importance.png)
 
 The feature-importance plot shows the relative contribution of the spectral bands and indices used by the Random Forest classifier. SWIR1, SWIR2, Red, and NDWI were among the most important features.
 
