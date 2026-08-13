@@ -14,6 +14,11 @@ The workflow uses ESA WorldCover 2021 as the reference dataset and a Random Fore
 
 The analysis includes image preprocessing, spectral feature extraction, spatial validation, land-cover classification, area estimation, and temporal change analysis.
 
+A one-page summary of the project's approach, key decisions, challenges,
+results, and limitations is available here:
+
+[Read the Project Summary](PROJECT_SUMMARY.md)
+
 ## Approach
 
 1. Selected Sentinel-2 Level-2A imagery for the study area for 2021, 2023, and 2025.
